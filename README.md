@@ -15,7 +15,7 @@ O conteúdo está organizado por aulas contendo os códigos demonstrados em aula
 - [Aula 7 - Função](./7-funcao)
 - [Aula 8 - Vetor](./8-vetor)
 - [Aula 9 - Matriz](./9-matriz)
-- [Exercícios](./exercicio)
+- [Exercícios](./exercícios)
 
 ## Objetivo:
 
