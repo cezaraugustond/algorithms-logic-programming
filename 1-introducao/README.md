@@ -88,6 +88,6 @@ As variáveis foram explicadas utilizando um exemplo figurativo:
 
 ## Exemplos da aula:
 
-[Exemplo 1:](./1-introducao/exemplos/EXEMPLO1.ALG) Desenvolva um algoritmo que exiba uma saudação inicial (”Olá, Mundo!”) na tela e mostre uma mensagem indicando que o usuário superou a “maldição do primeiro programa”. Ao final, o programa deve apresentar o nome do autor utilizando uma variável do tipo caractere.
+[Exemplo 1:](./exemplos/EXEMPLO1.ALG) Desenvolva um algoritmo que exiba uma saudação inicial (”Olá, Mundo!”) na tela e mostre uma mensagem indicando que o usuário superou a “maldição do primeiro programa”. Ao final, o programa deve apresentar o nome do autor utilizando uma variável do tipo caractere.
 
 
